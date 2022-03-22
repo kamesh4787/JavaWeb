@@ -12,7 +12,7 @@ public class JavaWebApplication {
 	@GetMapping("/getmesssage")
 public String getMessage() {
 	
-	return "welcome to git";
+	return "welcome to gitvv";
 }
 	public static void main(String[] args) {
 		SpringApplication.run(JavaWebApplication.class, args);
